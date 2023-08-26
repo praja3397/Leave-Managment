@@ -3,7 +3,7 @@ import React from 'react'
 function Dashboard() {
   return (
     <div>
-      <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwQZd4k9u3jPUIdJcgFE_nt6gFz5gfSDppow&usqp=CAU'/>
+      <img className='img-fluid leave' src='https://images.idgesg.net/images/article/2020/05/home-office-ideal-setup-angle-100843210-large.jpg?auto=webp&quality=85,70'/>
     </div>
   )
 }
